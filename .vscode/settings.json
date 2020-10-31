@@ -1,0 +1,5 @@
+{
+    "editor.snippetSuggestions": "bottom",
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "python.pythonPath": "D:\\python37\\evns\\djangoblog\\Scripts\\python.exe"
+}
